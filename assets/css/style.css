@@ -10,3 +10,11 @@
 .neg-margin{
   margin-top: -30px;
 }
+.span{
+  display: block;
+  width: 200px;
+  box-sizing:border-box;
+  border: 5px solid red;
+  padding: 20px 50px;
+  margin: 20px auto;
+}
