@@ -1,11 +1,12 @@
 .img{
   display: block;
   width: 400px;
-  height: 400px;
-  box-sizing: border-box;
   border: 5px solid red; 
   border-left-color:aqua;
   border-bottom-style:groove;
-  padding: 15px 15px 30px 5px;
-  margin: 20px; 
+  padding: 15px;
+  margin: 50px 20px;
+}
+.neg-margin{
+  margin-top: -30px;
 }
